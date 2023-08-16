@@ -62,7 +62,8 @@ Daphne Joel and Cordelia Fine, experts on the subjects of neuroscience and philo
 [2015 research fom Joel et al.](https://www.pnas.org/doi/epdf/10.1073/pnas.1509654112) represents a picture of human brains as a "mosaics" constituting of more commonly male and more commonly female aspects. Brain sex cnannot be binarized, or even visualized as a continum, but as this mosaic. 
 
 ![ScienceDirect Brain Mosaic](https://ars.els-cdn.com/content/image/1-s2.0-S0149763420306540-ga1.jpg)
-Figure: Graphical abstract of the mosaic brain strucutre [by Daphne Joel in Neuroscience & Biobehavioral Reviews](https://www.sciencedirect.com/science/article/pii/S0149763420306540).
+ 
+> Figure: Graphical abstract of the mosaic brain strucutre [by Daphne Joel in Neuroscience & Biobehavioral Reviews](https://www.sciencedirect.com/science/article/pii/S0149763420306540).
 
 ### The Transgender Brain
 
