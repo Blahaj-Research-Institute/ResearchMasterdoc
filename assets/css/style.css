@@ -39,6 +39,12 @@ p+blockquote p {
     
 }
 
+h1+p img {
+
+    width: 100% !important;
+        
+}
+
 @media screen {
 
 
