@@ -63,7 +63,7 @@ Daphne Joel and Cordelia Fine, experts on the subjects of neuroscience and philo
 
 ![ScienceDirect Brain Mosaic](https://ars.els-cdn.com/content/image/1-s2.0-S0149763420306540-ga1.jpg)
  
-> Figure: Graphical abstract of the mosaic brain strucutre [by Daphne Joel in Neuroscience & Biobehavioral Reviews](https://www.sciencedirect.com/science/article/pii/S0149763420306540).
+> **Figure**: Graphical abstract of the mosaic brain strucutre [by Daphne Joel in Neuroscience & Biobehavioral Reviews](https://www.sciencedirect.com/science/article/pii/S0149763420306540).
 
 ### The Transgender Brain
 

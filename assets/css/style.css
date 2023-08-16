@@ -9,22 +9,37 @@ body {
 
     background-color: white;
 
-    line-height: 1.625em;
     line-break: normal;
 
 }
 
-h1:first{
+.markdown-body h1:first-of-type {
+  
     display: none;
+    
 }
 
 body * {
     height: auto;
+    line-height: 1.5em !important;;
+}
+
+p+blockquote{
+          
+    width: 80%;
+    margin: auto;
+
+}
+
+p+blockquote p {
+        
+    font-size: 0.95em;
+    letter-spacing: initial;
+    line-height: 1.5;
+    
 }
 
 @media screen {
-
-
 
 
     h1+ul {
@@ -94,7 +109,9 @@ body * {
 
         img {
 
-            width: 100%;
+            display: block;
+            width: 80%;
+            margin: auto;
 
         }
 
@@ -124,12 +141,12 @@ body * {
             padding-left: 2em;
         }
 
-        p {
+        /* p {
 
             padding-left: 1em;
             padding-right: 1em;
 
-        }
+        } */
 
         ol {
             padding-right: 3em;
@@ -138,7 +155,9 @@ body * {
 
         img {
 
-            width: calc(200px + 20%);
+            display: block;
+            margin: auto;
+            width: 80%;
 
         }
 
@@ -172,11 +191,6 @@ body * {
 
     }
 
-    body * {
-        border-bottom: none !important;
-        line-height: 8pt;
-    }
-
     h1+ul {
         display: none;
     }
@@ -193,6 +207,12 @@ body * {
 
     }
 
+    p+blockquote p {
+        
+        font-size: 11px;
+
+    }
+
     p {
         font-size: 12pt;
     }
@@ -205,10 +225,6 @@ body * {
     li {
         font-size: 12pt;
         margin-left: -18pt;
-    }
-
-    img {
-        display: none;
     }
 
 }
