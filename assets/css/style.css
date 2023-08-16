@@ -51,8 +51,7 @@ p+blockquote p {
     }
 
     h1,
-    h2,
-    h3 {
+    h2 {
 
         /* letter-spacing: 0.0825em; */
         padding-bottom: 0.125em;

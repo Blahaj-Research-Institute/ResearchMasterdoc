@@ -117,3 +117,7 @@ TBD
 ### Contributors
 
 * [SkyMochi64](https://skymochi64.gay)
+
+## Liscence
+
+TBD. Currently do not repost unless to attract contributors. Likely CC-BY-4.0 ?
