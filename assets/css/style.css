@@ -11,8 +11,11 @@ body {
 
     line-height: 1.625em;
     line-break: normal;
-    text-align: justify;
 
+}
+
+h1:first{
+    display: none;
 }
 
 body * {
@@ -22,9 +25,10 @@ body * {
 @media screen {
 
 
+
+
     h1+ul {
 
-        justify-content: space-between;
         list-style: none;
 
         font-weight: 600;
@@ -35,19 +39,17 @@ body * {
     h2,
     h3 {
 
-        letter-spacing: 0.0825em;
+        /* letter-spacing: 0.0825em; */
         padding-bottom: 0.125em;
         border-bottom: 1px solid black;
 
     }
 
     a {
-        color: rgb(117, 61, 105);
         text-decoration: none;
     }
 
     a:hover {
-        color: rgb(140, 100, 150);
         text-decoration: underline;
     }
 
@@ -110,8 +112,8 @@ body * {
 
         body {
 
-            width: 70%;
-            padding-left: 15%;
+            width: 60%;
+            padding-left: 20%;
 
         }
 
@@ -120,13 +122,6 @@ body * {
             min-width: 450px;
             max-width: 550px;
             padding-left: 2em;
-        }
-
-        p+ul {
-
-            /* padding-left: 1em;
-            padding-right: 1em; */
-
         }
 
         p {
@@ -187,19 +182,19 @@ body * {
     }
 
     h1 {
-        font-size: 10pt;
+        font-size: 16pt;
     }
 
     h2,
     h3,
     h4 {
 
-        font-size: 8pt;
+        font-size: 14pt;
 
     }
 
     p {
-        font-size: 6pt;
+        font-size: 12pt;
     }
 
     a {
@@ -208,7 +203,7 @@ body * {
     }
 
     li {
-        font-size: 6pt;
+        font-size: 12pt;
         margin-left: -18pt;
     }
 
