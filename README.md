@@ -1,6 +1,6 @@
 # Trans Research Masterdoc
 
-![The Blahaj Research Institute of Transgender Research Logo](https://raw.githubusercontent.com/Blahaj-Research-Institute/ResearchMasterdoc/main/assets/images/LogoV1.png)
+![The Blahaj Research Institute of Transgender Research Logo](https://raw.githubusercontent.com/Blahaj-Research-Institute/ResearchMasterdoc/main/assets/images/BANNER_V1.png)
 
 This document is a collaboration between [@SkyMochi64](https://www.skymochi64.gay) and [@Nominal.Naomi](https://linktr.ee/nominal.naomi) based on the [original](https://docs.google.com/document/d/1WZBpR9Ll3lNi7-ig8FvB2grMlhsmRZNa34cROGK2rEE) Nominal.Naomi Research Masterdoc. This is an open source project, and collaborations are welcome. See [contributing](#contributing) if you'd like to contribute.
 
