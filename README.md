@@ -113,7 +113,8 @@ X0, XXX, XXY, XYY, XXYY all exist as well!
 0.5% of individuals have abnormal sex chromosomes, which accounts for millions of Americans alone and is about as common as being trans!
 
 ## Contributing
-TBD
+
+test text
 
 ## Credits
 ### Contributors
