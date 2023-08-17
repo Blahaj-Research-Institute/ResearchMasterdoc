@@ -115,7 +115,7 @@ h1+p img {
         img {
 
             display: block;
-            width: 80%;
+            width: 100%; /* Change back to 80% sometime? */
             margin: auto;
 
         }
