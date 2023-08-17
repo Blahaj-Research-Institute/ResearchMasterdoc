@@ -79,6 +79,7 @@ Additionally, the fact that there exists a wide variety of brain structures in-b
 
 
 Here’s a just a sample of these studies:
+
      0. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235900/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8955456/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2754583/
@@ -113,16 +114,12 @@ X0, XXX, XXY, XYY, XXYY all exist as well!
 0.5% of individuals have abnormal sex chromosomes, which accounts for millions of Americans alone and is about as common as being trans!
 
 ## Contributing
-
-WIP
-
-![Contribution Workflow for Trans Research Masterdoc](https://raw.githubusercontent.com/Blahaj-Research-Institute/ResearchMasterdoc/main/assets/images/Contribution_Workflow_V2.png)
+TBD
 
 ## Credits
-### Contributors/Maintainers
+### Contributors
 
-* [SkyMochi64](https://skymochi64.gay)
-* [Abby Richards](https://github.com/amrichards)
+* [SkyMochi64](https://skymochi64.gay] 
 
 ## Liscence
 
