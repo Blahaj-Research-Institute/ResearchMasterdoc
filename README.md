@@ -116,10 +116,12 @@ X0, XXX, XXY, XYY, XXYY all exist as well!
 ## Contributing
 TBD
 
+![Contribution Workflow](https://raw.githubusercontent.com/Blahaj-Research-Institute/ResearchMasterdoc/main/assets/images/Contribution_Workflow_V3.png)
+
 ## Credits
 ### Contributors
 
-* [SkyMochi64](https://skymochi64.gay] 
+* [SkyMochi64](https://skymochi64.gay)
 
 ## Liscence
 
