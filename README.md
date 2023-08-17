@@ -41,15 +41,14 @@ Many aspects of **biological sex can be changed** through medical transition, th
 For trans women on hormone replacement therapy (consisting of bioidentical estrogen and progesterone), they obtain female hormonal profiles, which alters the sexually dimorphic gene expression of their cells (everyone’s cells have the potential to express both male and female traits which are encoded in their DNA, and these traits are turned on and off by hormones). This causes their genes to express female traits, and they obtain real breasts that are anatomically identical to cis females (and capable of lactation (and there are even cis men who lactate, and the composition of their milk is in the normal range)), female skin texture, female body odor, female body fat distribution, female hair patterns in both body hair and head hair, female muscle mass, female bone density, and even female bone structure if they start early enough.
 
 Hormones Changing Bone Structure Studies:
-https://pubmed.ncbi.nlm.nih.gov/18835591/
-https://pubmed.ncbi.nlm.nih.gov/33507568/
+[pubmed.ncbi.nlm.nih.gov/18835591/](https://pubmed.ncbi.nlm.nih.gov/18835591/)
+[pubmed.ncbi.nlm.nih.gov/33507568/](https://pubmed.ncbi.nlm.nih.gov/33507568/)
 
 Bottom surgery reconstructs existing genitals into fully functional genitals of the opposite sex (functional genitals, not reproductive organs… although this is actively being researched!).
 
 Medical transition can make trans people infertile, fertility banking should be encouraged for individuals seeking hormone therapy.
 
 Hence, trans people can change their hormonal sex, the sex expression of their genes, their anatomical sex, and they can at least move over to the infertile category of reproductive sex. 
-
 
 ## Brain Sex
 
@@ -78,13 +77,13 @@ This research better helps us understand the neurological aspects of trans ident
 The other side of the coin, however, is using this research for a biologically deterministic outlook on trans identities as pretext for eugenicist or discriminatory research such as is the case for Autism Speaks (TBD). This research has already been used to attempt to justify Ray Blanchards bunk studies ([Guillamon et al. 2016](https://link.springer.com/article/10.1007/s10508-016-0768-5)).
 
 
-TO CITE/EXPLORE:
+<!-- TO CITE/EXPLORE:
 
 https://pubmed.ncbi.nlm.nih.gov/29050504/
 
 https://pubmed.ncbi.nlm.nih.gov/32057995/
 
-https://pubmed.ncbi.nlm.nih.gov/10843193/
+https://pubmed.ncbi.nlm.nih.gov/10843193/ -->
 
 Ultimately, brain structure is influenced by a complex combination of biological and sociological factors. The precise extent to which sexually dimorphic brain structures result from biological vs sociological factors is unknown, but this doesn’t change the fact that trans people’s brains are more like the sex and gender that they transition to.
 
@@ -103,16 +102,18 @@ X0, XXX, XXY, XYY, XXYY all exist as well!
 
 Steps to contribute to this project:
 
-1. Create a GitHub account
-2. Create a [GitHub issue](https://github.com/Blahaj-Research-Institute/ResearchMasterdoc/issues) on the project
-     1. Make the title [Contributors Request] username
-     2. Explain what you would like to add to the project
-3. Wait to be sent an invite to the project, then accept
-4. Create a [new branch](https://github.com/Blahaj-Research-Institute/ResearchMasterdoc/branches) and title it `dev/example-research` with example-research being the addition you'd like to make
-5. Switch to your newley created branch
+1. Create a GitHub account.
+2. Join the project.
+     1. Option 1: Create a [GitHub issue](https://github.com/Blahaj-Research-Institute/ResearchMasterdoc/issues).
+          2. Make the title [Contributors Request] username.
+          3. Explain what you would like to add to the project.
+     2. Option 2: DM @skymochi64 on Discord to be added.
+3. Wait to be sent questions or an invite to the project, then join!
+4. Create a [new branch](https://github.com/Blahaj-Research-Institute/ResearchMasterdoc/branches) and title it `dev/example-research` with example-research being the addition you'd like to make.
+5. Switch to your newley created branch.
 6. Edit the README.md file to include your research, explination, summarization, etc.
-7. Where prompted to, open/create a new pull request
-8. This will either be approved, or you will be asked to edit a few things
+7. Once done with your segment, where prompted to, open/create a new pull request.
+8. This will either be approved, or you will be asked to edit a few things.
 
 ## Credits
 ### Contributors
@@ -121,4 +122,4 @@ Steps to contribute to this project:
 
 ## Liscence
 
-TBD. Currently do not repost unless to attract contributors. Likely CC-BY-4.0 ?
+TBD. Currently you should use the original masterdoc. Once more complete, we will likely use CC-BY-4.0.
