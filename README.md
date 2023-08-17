@@ -79,6 +79,7 @@ Additionally, the fact that there exists a wide variety of brain structures in-b
 
 
 Here’s a just a sample of these studies:
+
      0. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235900/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8955456/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2754583/
@@ -114,6 +115,8 @@ X0, XXX, XXY, XYY, XXYY all exist as well!
 
 ## Contributing
 TBD
+
+![Contribution Workflow](https://raw.githubusercontent.com/Blahaj-Research-Institute/ResearchMasterdoc/main/assets/images/Contribution_Workflow_V3.png)
 
 ## Credits
 ### Contributors
