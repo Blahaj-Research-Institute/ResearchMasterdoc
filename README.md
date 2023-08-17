@@ -79,6 +79,7 @@ Additionally, the fact that there exists a wide variety of brain structures in-b
 
 
 Here’s a just a sample of these studies:
+
      0. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235900/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8955456/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2754583/
@@ -118,7 +119,7 @@ TBD
 ## Credits
 ### Contributors
 
-* [SkyMochi64](https://skymochi64.gay)
+* [SkyMochi64](https://skymochi64.gay] 
 
 ## Liscence
 
