@@ -6,7 +6,7 @@ This document is a collaboration between [@SkyMochi64](https://www.skymochi64.ga
 
 ### Content Warnings
 
-Many studies (even those included), due to age or biases, often times use ablelist and/or transphobic language. 
+Many studies (even those included), due to age or biases, often times use ablelist and/or transphobic language. Many studies discuss cisgender, neurotypical, and able-bodied individuals as "normal" or "typical" while referring to the contrary as "abnormal", "atypical", "not normal", etc. This can be incredibly dehumanizing and exhausting to read these studies in depth. Please be cautious when doing so, and make sure to keep your mental health as your first priority. Articles that are *especially* aggregious should be labeled with an asterisk. Articles with a bias towards eugenics should be excluded.
 
 ## Table of Contents
 
@@ -69,41 +69,26 @@ Daphne Joel and Cordelia Fine, experts on the subjects of neuroscience and philo
 
 ### The Transgender Brain
 
-Even with such a small window of sexually dimorphic brain variance, study after study after study indicates that trans people’s brain matter structures are more in-line with the sex/gender they transition to, even in many brain regions prior to medical transition. **NOTE: NOT FULLY CONCLUSIVE. LOOK INTO**
+Even with such a small window of sexually dimorphic brain variance, studies indicate that trans people’s brain structures are more in-line with the sex/gender they transition to, *even prior to medical transition*. ([Zubiaurre-Elorza et al. 2013](https://pubmed.ncbi.nlm.nih.gov/22941717/)) ([Luders et al. 2012](https://pubmed.ncbi.nlm.nih.gov/23724358/)) ([Simon et al. 2013](https://pubmed.ncbi.nlm.nih.gov/24391851/)) ([Rametti et al. 2011](https://pubmed.ncbi.nlm.nih.gov/20562024/)) ([Kranz et al. 2014](https://pubmed.ncbi.nlm.nih.gov/25392513/)) ([Hahn et al. 2015](https://pubmed.ncbi.nlm.nih.gov/25217469/)). In tasks where one sex does better on average, transgender people also show to preform closer to their gender identity *even before transition* such as verbal fluency ([Soleman et al. 2013](https://pubmed.ncbi.nlm.nih.gov/23433223/)) ([Cohen-Kettanis et al. 1998](https://pubmed.ncbi.nlm.nih.gov/9802133/))*.
 
-Unfortunately, many of these studies do not account for the total physical size of brains; however, the studies don’t account for this still indicate that trans people’s brain matter distributions are shifted towards the other/sex gender.
+When looking holistically at the research, approximately 25% of research on transgender brains finds no corrolation between trans identities and brain sex, leading to the interpretation that brain sex functions on either a contium or a mosaic rather than a binary. ([Ngyuen et al. 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235900/)) Research accounting for pre-transition brain sex as a continoum has shown MRI scans of transgender individuals align more with their gender identity than birth sex ([Kurth et al. 2022](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8955456/)) ([Manzouri et al. 2017](https://pubmed.ncbi.nlm.nih.gov/26637450/)) ([Moody et al. 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7750413/)), including a study with almost 400 pre-transition transgender participants ([Muller et al. 2021](https://pubmed.ncbi.nlm.nih.gov/34030966/))
 
-What sex characteristic should matter the most when we want to classify who someone truly is on the inside, and how we should treat them in social settings? It ought to be their brain sex, because who we are as a person inside is a result of our living, thinking, brain.
+This research better helps us understand the neurological aspects of trans identities, and can help us better understand how to care for transgender individuals. Research based on our updated understanding of brain sex has helped us understand the unique and fascinating ways in which transgender people develop. ([Wang et al. 2021](https://pubmed.ncbi.nlm.nih.gov/34030966/))
 
-Additionally, the fact that there exists a wide variety of brain structures in-between what is typical of males and females gives rise to a potential biological explanation for non-binary identities and the various third-genders that have been recognized throughout human history.
+The other side of the coin, however, is using this research for a biologically deterministic outlook on trans identities as pretext for eugenicist or discriminatory research such as is the case for Autism Speaks (TBD). This research has already been used to attempt to justify Ray Blanchards bunk studies ([Guillamon et al. 2016](https://link.springer.com/article/10.1007/s10508-016-0768-5)).
 
 
-Here’s a just a sample of these studies:
+TO CITE/EXPLORE:
 
-     0. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235900/
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8955456/
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2754583/
-https://pubmed.ncbi.nlm.nih.gov/21467211/
-https://pubmed.ncbi.nlm.nih.gov/22941717/
 https://pubmed.ncbi.nlm.nih.gov/29050504/
-https://pubmed.ncbi.nlm.nih.gov/34030966/
-https://pubmed.ncbi.nlm.nih.gov/27479654/
-https://pubmed.ncbi.nlm.nih.gov/18056697/
-https://pubmed.ncbi.nlm.nih.gov/29263327/
-https://pubmed.ncbi.nlm.nih.gov/26637450/
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7750413/
-https://pubmed.ncbi.nlm.nih.gov/21094885/
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8324983/
-https://pubmed.ncbi.nlm.nih.gov/7477289/
-https://pubmed.ncbi.nlm.nih.gov/24391851/
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3665407/
-https://link.springer.com/article/10.1007/s10508-016-0768-5
-https://pubmed.ncbi.nlm.nih.gov/20562024/
+
 https://pubmed.ncbi.nlm.nih.gov/32057995/
+
 https://pubmed.ncbi.nlm.nih.gov/10843193/
-Innate biological traits (e.g. genetic factors, prenatal hormone washes) play a role in shaping brain structure, as shown above. Sociological traits (e.g. culture, upbringing) also play a role in shaping brain structure.
+
 Ultimately, brain structure is influenced by a complex combination of biological and sociological factors. The precise extent to which sexually dimorphic brain structures result from biological vs sociological factors is unknown, but this doesn’t change the fact that trans people’s brains are more like the sex and gender that they transition to.
-But What About the Chromosomes?
+
+### But What About the Chromosomes?
 
 X and Y chromosomal combinations are neither binary, nor a defining characteristic of one’s biological sex characteristics:
 
