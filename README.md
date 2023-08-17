@@ -114,9 +114,20 @@ X0, XXX, XXY, XYY, XXYY all exist as well!
 0.5% of individuals have abnormal sex chromosomes, which accounts for millions of Americans alone and is about as common as being trans!
 
 ## Contributing
-TBD
-
 ![Contribution Workflow](https://raw.githubusercontent.com/Blahaj-Research-Institute/ResearchMasterdoc/main/assets/images/Contribution_Workflow_V3.png)
+
+Steps to contribute to this project:
+
+1. Create a GitHub account
+2. Create a [GitHub issue](https://github.com/Blahaj-Research-Institute/ResearchMasterdoc/issues) on the project
+     1. Make the title [Contributors Request] username
+     2. Explain what you would like to add to the project
+3. Wait to be sent an invite to the project, then accept
+4. Create a [new branch](https://github.com/Blahaj-Research-Institute/ResearchMasterdoc/branches) and title it `dev/example-research` with example-research being the addition you'd like to make
+5. Switch to your newley created branch
+6. Edit the README.md file to include your research, explination, summarization, etc.
+7. Where prompted to, open/create a new pull request
+8. This will either be approved, or you will be asked to edit a few things
 
 ## Credits
 ### Contributors
