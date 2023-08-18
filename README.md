@@ -2,10 +2,13 @@
 
 ![The Blahaj Research Institute of Transgender Research Logo](https://raw.githubusercontent.com/Blahaj-Research-Institute/ResearchMasterdoc/main/assets/images/BANNER_V1.png)
 
-This document is a collaboration between [@SkyMochi64](https://www.skymochi64.gay) and [@Nominal.Naomi](https://linktr.ee/nominal.naomi) based on the [original](https://docs.google.com/document/d/1WZBpR9Ll3lNi7-ig8FvB2grMlhsmRZNa34cROGK2rEE) Nominal.Naomi Research Masterdoc. This is an open source project, and collaborations are welcome. See [contributing](#contributing) if you'd like to contribute.
+This document is a collaboration between [@SkyMochi64](https://www.skymochi64.gay) and [@Nominal.Naomi](https://linktr.ee/nominal.naomi) based on the [original](https://docs.google.com/document/d/1WZBpR9Ll3lNi7-ig8FvB2grMlhsmRZNa34cROGK2rEE) Nominal.Naomi Research Masterdoc. This is an open source project, and collaborations are welcome. See [contributing](#contributing) if you'd like to contribute. The GitHub for this project can be found [here](https://github.com/Blahaj-Research-Institute/ResearchMasterdoc).
 
 ### Content Warnings
-
+<!-- 
+     Go through and make sure to include asterisks!
+     - Skye
+-->
 Many studies (even those included), due to age or biases, often times use ablelist and/or transphobic language. Many studies discuss cisgender, neurotypical, and able-bodied individuals as "normal" or "typical" while referring to the contrary as "abnormal", "atypical", "not normal", etc. This can be incredibly dehumanizing and exhausting to read these studies in depth. Please be cautious when doing so, and make sure to keep your mental health as your first priority. Articles that are *especially* aggregious should be labeled with an asterisk. Articles with a bias towards eugenics should be excluded.
 
 ## Table of Contents
@@ -28,6 +31,10 @@ Many studies (even those included), due to age or biases, often times use ableli
 
 ## Acronyms
 
+<!-- 
+     Continue work on defining terms at some point
+-->
+
 **GAHT** Gender Afirming Hormone Therapy
 
 **HRT** Hormone Replacement Therapy
@@ -38,10 +45,19 @@ Many studies (even those included), due to age or biases, often times use ableli
 
 Many aspects of **biological sex can be changed** through medical transition, though it is not a requirnment to transgender identities.
 
-For trans women on hormone replacement therapy (consisting of bioidentical estrogen and progesterone), they obtain female hormonal profiles, which alters the sexually dimorphic gene expression of their cells (everyone’s cells have the potential to express both male and female traits which are encoded in their DNA, and these traits are turned on and off by hormones). This causes their genes to express female traits, and they obtain real breasts that are anatomically identical to cis females (and capable of lactation (and there are even cis men who lactate, and the composition of their milk is in the normal range)), female skin texture, female body odor, female body fat distribution, female hair patterns in both body hair and head hair, female muscle mass, female bone density, and even female bone structure if they start early enough.
+For trans women on hormone replacement therapy (consisting of bioidentical estrogen and progesterone), they obtain a female hormonal profile, altering the sexually dimorphic gene expressions of their cells. Everyone’s cells have the potential to express both male and female traits which are encoded in their DNA, and these traits are turned on and off by your current hormone profile. Feminizing hormone therapy causes their genes to express female traits, causing the development of breasts anatomically identical to cis females. They are also capable of lacting within healthy and normal ranges for nutrients. ([example](https://twitter.com/nominalnaomi/status/1684988539094609931)) Further, hormone therapy helps trans women develop female skin texture, female body odor, female body fat distribution, female hair patterns in both body hair and head hair, female muscle mass, female bone density, and even female bone structure if they start early enough.
 
+<!-- 
+     OPTIONS:
+     1. Incorporate into more paragraph setting
+     2. Summarize here at later date
+     3. Include in study megadump and link here
+     - Skye
+ -->
 Hormones Changing Bone Structure Studies:
+
 [pubmed.ncbi.nlm.nih.gov/18835591/](https://pubmed.ncbi.nlm.nih.gov/18835591/)
+
 [pubmed.ncbi.nlm.nih.gov/33507568/](https://pubmed.ncbi.nlm.nih.gov/33507568/)
 
 Bottom surgery reconstructs existing genitals into fully functional genitals of the opposite sex (functional genitals, not reproductive organs… although this is actively being researched!).
@@ -50,8 +66,32 @@ Medical transition can make trans people infertile, fertility banking should be 
 
 Hence, trans people can change their hormonal sex, the sex expression of their genes, their anatomical sex, and they can at least move over to the infertile category of reproductive sex. 
 
-## Brain Sex
+### But What About the Chromosomes?
+<!-- 
+     Im not the most knowledgeable on this, so this should probably be proofed by someone else
+     - Skye
+-->
 
+X and Y chromosomal combinations are neither binary, nor a defining characteristic of one’s biological sex characteristics ([Griffiths 2018](https://journals.sagepub.com/doi/full/10.1177/0306312718757081)) as evidenced by many examples:
+
+* XX Males exist - De La Chapelle Syndrome
+* XY Females exist - Swyer Syndrome, Complete Androgen Insensitivity
+* X0, XXX, XXY, XYY, XXYY all exist as well!
+
+<!--
+     There are *definitely* more citable instances and evidence than these three studies. 
+     I (or preferably someone else?) should look into strenghtening this at a later point!
+     - Skye
+-->
+Estimates for the prevelance of non-expected chromosomal combinations range between roughly 0.5% ([Wellesley et al. 2012](https://www.nature.com/articles/ejhg2011246)) ([Lubs et al. 1970](https://pubmed.ncbi.nlm.nih.gov/5424797/)) to upwards of 2% ([Paththinige et al. 2019](https://www.hindawi.com/journals/bmri/2019/9797104/)) depending on time period and location.
+
+0.5% of individuals have abnormal sex chromosomes, which accounts for millions of Americans alone and is about as common as being trans!
+
+## Brain Sex
+<!-- 
+     Mostly done, and consistently being reworked by Skye.
+     (its a special interest of mine!)
+ -->
 The human brain is an incredibly complex organ, with countless different structures specializing in different functions, but also adaptable (neuroplasticity).
 
 ### Brain Sex as a Mosaic
@@ -87,16 +127,6 @@ https://pubmed.ncbi.nlm.nih.gov/10843193/ -->
 
 Ultimately, brain structure is influenced by a complex combination of biological and sociological factors. The precise extent to which sexually dimorphic brain structures result from biological vs sociological factors is unknown, but this doesn’t change the fact that trans people’s brains are more like the sex and gender that they transition to.
 
-### But What About the Chromosomes?
-
-X and Y chromosomal combinations are neither binary, nor a defining characteristic of one’s biological sex characteristics:
-
-XX Males exist - De La Chapelle Syndrome
-XY Females exist - Swyer Syndrome, Complete Androgen Insensitivity
-X0, XXX, XXY, XYY, XXYY all exist as well!
-
-0.5% of individuals have abnormal sex chromosomes, which accounts for millions of Americans alone and is about as common as being trans!
-
 ## Contributing
 ![Contribution Workflow](https://raw.githubusercontent.com/Blahaj-Research-Institute/ResearchMasterdoc/main/assets/images/Contribution_Workflow_V3.png)
 
@@ -119,6 +149,7 @@ Steps to contribute to this project:
 ### Contributors
 
 * [SkyMochi64](https://skymochi64.gay)
+* [Abby Richards](https://github.com/amrichards)
 
 ## Liscence
 
