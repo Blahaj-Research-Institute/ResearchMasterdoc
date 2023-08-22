@@ -13,10 +13,15 @@ Many studies (even those included), due to age or biases, often times use ableli
 
 ## Table of Contents
 
+1. [Resources](#resources)
 1. [Definitions](#definitions)
-2. [Acrnoyms](#acronyms)
-2. [Biological Sex is Mostly Mutable](#biological-sex-is-mostly-mutable)
-3. [Brain Sex](#brain-sex)
+1. [Acrnoyms](#acronyms)
+1. [Biological Sex is Mostly Mutable](#biological-sex-is-mostly-mutable)
+1. [Brain Sex](#brain-sex)
+1. [Modern Eugenics & Conversion Therapy Efforts](#modern-eugenics--conversion-therapy-efforts)
+
+## Resources
+
 
 ## Definitions
 
@@ -158,7 +163,7 @@ Needs work, feel sick while writing this
 - Skye
 
  -->
-Currently the largest and most well known and funded institution focusing on autistic individuals is autism speaks, an organization mired with countless controversies. Autism speaks abides by the medical model of autism, viewing autism as a medical issue, and seeking to "treat" and eventually "cure" autism. In 2016, Autism Speaks removed the overtly eugenicist language from its website, however, some argue its intense focus on the "solution" to autism being an extreme emphasis on biomedical research, rather than systematic social change, still displays a bent towards eugenics ([Jones 2016](https://unstrangemind.com/autism-speaks-hasnt-really-changed-anything/)). Autism Speaks, further, [supoprts](https://www.autismspeaks.org/applied-behavior-analysis) the use of [conversion therapies](#aba-conversion-therapy--human-rights-abuses) for autistic children. Autism Speaks does not acknowledge its past, learn from it, and then seek to better itself - leading to a deepened distrust ([Rosenblatt 2021](https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/25722/dsq-sds.org-Autism%20Advocacy%20Organizations%20and%20Past%20Injustice.pdf)) of the the largest orgnization purporting to fight for autistic people's rights.
+Currently the largest and most well known and funded institution focusing on autistic individuals is autism speaks, an organization mired with countless controversies. Autism speaks abides by the medical model of autism, viewing autism as a medical issue, and seeking to "treat" and eventually "cure" autism. In 2016, Autism Speaks removed the overtly eugenicist language from its website, however, some argue its intense focus on the "solution" to autism being an extreme emphasis on biomedical research, rather than systematic social change, still displays a bent towards eugenics ([Jones 2016](https://unstrangemind.com/autism-speaks-hasnt-really-changed-anything/)). Autism Speaks, further, [supoprts](https://www.autismspeaks.org/applied-behavior-analysis) the use of [conversion therapies](#aba-conversion-therapy-torutre--trauma) for autistic children. Autism Speaks does not acknowledge its past, learn from it, and then seek to better itself - leading to a deepened distrust ([Rosenblatt 2021](https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/25722/dsq-sds.org-Autism%20Advocacy%20Organizations%20and%20Past%20Injustice.pdf)) of the the largest orgnization purporting to fight for autistic people's rights.
 #### ABA: Conversion Therapy, Torutre, & Trauma
 <!-- 
 
@@ -174,9 +179,22 @@ Look through citations for, look deeper into connections between trans people & 
 - Skye
 
 -->
-ABA is a widely adopted and endorsed form of conversion therapy for autistic children ([Wilkenfeld et al. 2020](doi.org/10.1353/ken.2020.0000)) ([Pyne 2020](https://www.cambridge.org/core/journals/canadian-journal-of-law-and-society-la-revue-canadienne-droit-et-societe/article/building-a-person-legal-and-clinical-personhood-for-autistic-and-trans-children-in-ontario/2041374EDCDAD44AE2DE1EB9D2C16361)), supported by many instiutions such as the [CDC](https://www.cdc.gov/ncbddd/autism/treatment.html). Studies show recipents of ABA are 86% more likely to meet the criteria for PTSD, with estimates showing 46% of ABA survivors meet the diagnostic criteria for PTSD ([Kupferstein 2018](https://doi.org/10.1108/AIA-08-2017-0016)). 
+ABA (Autism Behavior Analysis) is a widely adopted and endorsed form of conversion therapy for autistic children ([Wilkenfeld et al. 2020](doi.org/10.1353/ken.2020.0000)) ([Pyne 2020](https://www.cambridge.org/core/journals/canadian-journal-of-law-and-society-la-revue-canadienne-droit-et-societe/article/building-a-person-legal-and-clinical-personhood-for-autistic-and-trans-children-in-ontario/2041374EDCDAD44AE2DE1EB9D2C16361)), supported by many instiutions such as the [CDC](https://www.cdc.gov/ncbddd/autism/treatment.html) and [National Institutes of Health](https://www.nichd.nih.gov/health/topics/autism/conditioninfo/treatments/behavioral-management) and [APA](https://www.apa.org/about/policy/applied-behavior-analysis). Studies show recipents of ABA are 86% more likely to meet the criteria for PTSD, with estimates showing 46% of ABA survivors meet the diagnostic criteria for PTSD ([Kupferstein 2018](https://doi.org/10.1108/AIA-08-2017-0016)). Further, a handful of states (including blue states such as CA, PA, ME, CO) have [no lisence requirnments](https://www.bacb.com/u-s-licensure-of-behavior-analysts/) for ABA. ABA is primarily comprised of RBTs (technicans), a role which [requires only 40 hours of training] (https://www.bacb.com/rbt/). Clinics such as AutismTherapies are [88% comprised of RBT](https://autismtherapies.com/careers). 
 
-ABA typically consists of ([McGill et al. 2020](https://doi.org/10.1108/AIA-04-2020-0025)):
+<!-- 
+
+Read Loovas' work more in depth later. Makes me too sick. Also see if you can find more Loovas articles.
+Read further into the exact details of Bottema-Beutel Crowley 2021
+- Skye
+
+-->
+ABA has its roots in the 60's, with the research of [Ivar Loovas](https://en.wikipedia.org/wiki/Ole_Ivar_Lovaas). Loovas' main accomplishments were the creation of ABA, though he did also expriment with conversion therapy on trans and gender-diverse children ([Rekers, Lovaas 1974](https://link.springer.com/article/10.1007/BF00919093))*. In 2020, the journal in which Loovas published [issued an "expression of concern"](https://onlinelibrary.wiley.com/doi/10.1002/jaba.781) on Loovas' work in conversion therapy for gender nonconforming children, however, did no such thing for ABA studies. Further, recent research has demonstrated a pervasive issue of not disclosing conflicts of interests within ABA research, primarily not disclosing that pro-ABA research is primarily conducted by ABA practitioners ([Bottema-Beutel, Crowley 2021](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.676303/full)).
+
+ABA was built around using [opperant conditoning](https://en.wikipedia.org/wiki/Operant_conditioning), later by Lovaas described as [discrete trial training](https://en.wikipedia.org/wiki/Discrete_trial_training), which involved autistic children being commanded to do things they are typically uncomfortable with. During this time, physical punishments were used to reduce self-harm in autistic children, such as isolation, electric shocks, or slapping ([Loovas 1973](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1310815/pdf/jaba00063-0133.pdf))*. ABA was described by Loovas as:
+
+> "Throughout, there was an emphasis on making the child look as normal as possible, reward-ing him for normal behavior and punishing his psychotic behavior, teaching him to please his parents and us, to be grateful for what we would do for him, to be afraid of us when we were angry, and pleased when we were happy. Adults were in control." ([Loovas 1973](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1310815/pdf/jaba00063-0133.pdf))*.
+
+ABA *currently* can consist of ([McGill et al. 2020](https://doi.org/10.1108/AIA-04-2020-0025)):
 
 1. **Training** children through the use of physical interventions such as physical restraints, force-feeding, or restricting bathroom usage; dehumanization and animalistic treatment; and accusations of lying or laziness in response to autistic behaviors. 
 2. **Eroding the self** by changing the way survivors interact with the world, forcing them to mask, inflicting significant trauma, and learning self-hatred.
