@@ -26,16 +26,19 @@ body * {
 
 p+blockquote{
           
-    width: 80%;
+    width: 75%;
     margin: auto;
 
 }
 
 p+blockquote p {
         
-    font-size: 0.95em;
+    font-size: 1.025em;
     letter-spacing: initial;
-    line-height: 1.5;
+    line-height: 1.625em;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    text-align: justify;
     
 }
 
@@ -201,25 +204,25 @@ h1+p img {
     }
 
     h1 {
-        font-size: 16pt;
+        font-size: 30pt;
     }
 
     h2,
     h3,
     h4 {
 
-        font-size: 14pt;
+        font-size: 28pt;
 
     }
 
     p+blockquote p {
         
-        font-size: 11px;
+        font-size: 20pt;
 
     }
 
     p {
-        font-size: 12pt;
+        font-size: 24pt;
     }
 
     a {
@@ -228,8 +231,7 @@ h1+p img {
     }
 
     li {
-        font-size: 12pt;
-        margin-left: -18pt;
+        font-size: 24pt;
     }
 
 }
