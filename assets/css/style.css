@@ -26,16 +26,19 @@ body * {
 
 p+blockquote{
           
-    width: 80%;
+    width: 75%;
     margin: auto;
 
 }
 
 p+blockquote p {
         
-    font-size: 0.95em;
+    font-size: 1.025em;
     letter-spacing: initial;
-    line-height: 1.5;
+    line-height: 1.625em;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    text-align: justify;
     
 }
 

@@ -149,13 +149,7 @@ Ultimately, brain structure is influenced by a complex combination of biological
 ### Trans People
 
 ### Autism & Neurodiversity
-Note: This section is written by [Skye](https://www.skymochi64.gay) and is emblematic of her opinions.  
-<!-- 
-
-Cite autism speaks' popularity
-- Skye
-
--->
+<!-- Note: This section is written by [Skye](https://www.skymochi64.gay) and is emblematic of her opinions.   -->
 #### Autism Speaks & Eugenics
 <!--
 
@@ -163,7 +157,7 @@ Needs work, feel sick while writing this
 - Skye
 
  -->
-Currently the largest and most well known and funded institution focusing on autistic individuals is autism speaks, an organization mired with countless controversies. Autism speaks abides by the medical model of autism, viewing autism as a medical issue, and seeking to "treat" and eventually "cure" autism. In 2016, Autism Speaks removed the overtly eugenicist language from its website, however, some argue its intense focus on the "solution" to autism being an extreme emphasis on biomedical research, rather than systematic social change, still displays a bent towards eugenics ([Jones 2016](https://unstrangemind.com/autism-speaks-hasnt-really-changed-anything/)). Autism Speaks, further, [supoprts](https://www.autismspeaks.org/applied-behavior-analysis) the use of [conversion therapies](#aba-conversion-therapy-torutre--trauma) for autistic children. Autism Speaks does not acknowledge its past, learn from it, and then seek to better itself - leading to a deepened distrust ([Rosenblatt 2021](https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/25722/dsq-sds.org-Autism%20Advocacy%20Organizations%20and%20Past%20Injustice.pdf)) of the the largest orgnization purporting to fight for autistic people's rights.
+Currently the largest and most well known and funded institution focusing on autistic individuals is autism speaks, an organization mired with countless controversies. Autism speaks abides by the medical model of autism, viewing autism as a medical issue, and seeking to "treat" and eventually "cure" autism. In 2016, Autism Speaks removed the overtly eugenicist language from its website, however, some argue its intense focus on the "solution" to autism being an extreme emphasis on biomedical research, rather than systematic social change, still displays a bent towards eugenics ([Jones 2016](https://unstrangemind.com/autism-speaks-hasnt-really-changed-anything/)). Autism Speaks, further, [supports](https://www.autismspeaks.org/applied-behavior-analysis) the use of [conversion therapies](#aba-conversion-therapy-torutre--trauma) for autistic children. Autism Speaks does not acknowledge its past, learn from it, and then seek to better itself - leading to a deepened distrust ([Rosenblatt 2021](https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/25722/dsq-sds.org-Autism%20Advocacy%20Organizations%20and%20Past%20Injustice.pdf)) of the the largest orgnization purporting to fight for autistic people's rights.
 #### ABA: Conversion Therapy, Torutre, & Trauma
 <!-- 
 
@@ -179,7 +173,7 @@ Look through citations for, look deeper into connections between trans people & 
 - Skye
 
 -->
-ABA (Autism Behavior Analysis) is a widely adopted and endorsed form of conversion therapy for autistic children ([Wilkenfeld et al. 2020](doi.org/10.1353/ken.2020.0000)) ([Pyne 2020](https://www.cambridge.org/core/journals/canadian-journal-of-law-and-society-la-revue-canadienne-droit-et-societe/article/building-a-person-legal-and-clinical-personhood-for-autistic-and-trans-children-in-ontario/2041374EDCDAD44AE2DE1EB9D2C16361)), supported by many instiutions such as the [CDC](https://www.cdc.gov/ncbddd/autism/treatment.html) and [National Institutes of Health](https://www.nichd.nih.gov/health/topics/autism/conditioninfo/treatments/behavioral-management) and [APA](https://www.apa.org/about/policy/applied-behavior-analysis). Studies show recipents of ABA are 86% more likely to meet the criteria for PTSD, with estimates showing 46% of ABA survivors meet the diagnostic criteria for PTSD ([Kupferstein 2018](https://doi.org/10.1108/AIA-08-2017-0016)). Further, a handful of states (including blue states such as CA, PA, ME, CO) have [no lisence requirnments](https://www.bacb.com/u-s-licensure-of-behavior-analysts/) for ABA. ABA is primarily comprised of RBTs (technicans), a role which [requires only 40 hours of training] (https://www.bacb.com/rbt/). Clinics such as AutismTherapies are [88% comprised of RBT](https://autismtherapies.com/careers). 
+ABA (Autism Behavior Analysis) is a widely adopted and endorsed form of conversion therapy for autistic children ([Wilkenfeld et al. 2020](doi.org/10.1353/ken.2020.0000)) ([Pyne 2020](https://www.cambridge.org/core/journals/canadian-journal-of-law-and-society-la-revue-canadienne-droit-et-societe/article/building-a-person-legal-and-clinical-personhood-for-autistic-and-trans-children-in-ontario/2041374EDCDAD44AE2DE1EB9D2C16361)), supported by many instiutions such as the [CDC](https://www.cdc.gov/ncbddd/autism/treatment.html) and [National Institutes of Health](https://www.nichd.nih.gov/health/topics/autism/conditioninfo/treatments/behavioral-management) and [APA](https://www.apa.org/about/policy/applied-behavior-analysis). Studies show recipents of ABA are 86% more likely to meet the criteria for PTSD, with estimates showing 46% of ABA survivors meet the diagnostic criteria for PTSD ([Kupferstein 2018](https://doi.org/10.1108/AIA-08-2017-0016)). Further, a handful of states (including blue states such as CA, PA, ME, CO) have [no lisence requirnments](https://www.bacb.com/u-s-licensure-of-behavior-analysts/) for ABA. ABA is primarily comprised of RBTs (technicans), a role which [requires only 40 hours of training] (https://www.bacb.com/rbt/). Clinics such as AutismTherapies are [88% comprised of RBTs](https://autismtherapies.com/careers). 
 
 <!-- 
 
