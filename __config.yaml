@@ -1,13 +1,20 @@
-title                : Trans Research Masterdoc
-description          : Based on the Nominal.Naomi research masterdoc, this is an open source masterdoc on research on transgender individuals
-locale               : en_US
+title                : "Blahaj Institute's Trans Research Masterdoc"
+description          : "Based on the Nominal.Naomi research masterdoc, this is an open source master document for research on transgender individuals." 
+locale               : "en_US"
+image                : "https://www.masterdoc.info/assets/images/PFP_V1.png"
+
 keywords:
   - Trans
   - Research
   - NominalNaomi
+  - SkyMochi64
 tags:
   - Trans
   - Research
   - NominalNaomi
 
 encoding             : "utf-8"
+
+author:
+  name               : "Blahaj Research Institute"
+  avatar             : "https://www.masterdoc.info/assets/images/PFP_V1.png"
