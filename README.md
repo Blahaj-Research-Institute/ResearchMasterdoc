@@ -116,6 +116,9 @@ Whenever a generalized rule is constructed, exceptions will always exist; howeve
 #### From a scientific perspective
 The goal of scientists is to build the most accurate and complete models of understanding. Any model of human biology that fails to account for intersex people, who make up almost 2% of all humans, is an incomplete and inaccurate model. Incomplete and accurate models should be discarded if a better model can be constructed. Simple and incomplete models are good at introducing people, like children, to scientific topics. As cognitively developed adults that care about the truth, we should recognize that the simple model is simply the most intuitive and understandable, not the most complete and accurate. Modern day biologists account for intersex people by recognizing that biological sex exists bimodally distributed along a spectrum. This is just fact.
 
+![The sex spectrum scientific American](https://www.scientificamerican.com/sciam/cache/file/164FE5CE-FBA6-493F-B9EA84B04830354E_source.jpg)
+> **Figure**: An example of a more accurate and complete visualization made by [Amanda Montañez](https://www.scientificamerican.com/author/amanda-montanez/) and [Pitch Interactive](https://www.pitchinteractive.com/) for [Scientific American](https://www.scientificamerican.com/) detailing the bimodal distribution of sex from "typical biological female" to "typical biological male" including chromosomes, genes, hormones, internal/external sex organs, and secondary sex characteristics.
+
 ## Brain Sex
 <!-- 
      Mostly done, and consistently being reworked by Skye.
