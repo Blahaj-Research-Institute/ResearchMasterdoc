@@ -21,6 +21,9 @@ Many studies (even those included), due to age or biases, often times use ableis
 1. [Brain Sex](#brain-sex)
 1. [Modern Eugenics & Conversion Therapy Efforts](#modern-eugenics--conversion-therapy-efforts)
 1. [Sex, Gender, and Religion](#sex-gender-and-religion)
+1. [Gender Transition Helps People](#gender-transition-helps-people)
+1. [Trans Youth](#trans-youth)
+1. [Detransition and Regret](#detransition-and-regret)
 1. [Debate & Rhetoric](#debate--rhetoric)
 
 ## Resources
@@ -220,6 +223,34 @@ ABA *currently* can consist of ([McGill et al. 2020](https://doi.org/10.1108/AIA
 3. **Restricting agency** through controlling behaviors, focusing on teaching compliance to the point of making children more vulnerable to future abuse, and forced masking of survivors' identities.
 
 ## Sex, Gender, and Religion
+
+## Gender Transition Helps People
+<!-- 
+
+     Read turban et al. 2022 more in depth later
+
+ -->
+Gender transition is not exclusive to hormones or surgeries, but can include legal name changes or social transition. However, this will mostly focus on medical transition. A study of over 27,000 transgender participants demonstrated that for those who *want* gender affirming hormone treatment and receive treatment demonstrate a 153% in severe psychological distress and a 62% in past-year suicide ideation compared to those who *want* gender affirming hormones but cannot receive treatment (Turban et al. 2022)[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8754307/]. This section primarily focuses on dispelling miss-information those who *want* gender affirming hormones, but cannot access treatment.
+
+An enormous [systematic literature review out of Cornell](https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/) demonstrated transgender people significantly benefit from gender transition. The breakdown of studies investigated showed the following:
+- 51 studies indicated gender transition had **positive** effects on mental health.
+- 4 studies indicated gender transition had **mixed or no** results.
+- 0 studies indicated gender transition had **negative** results.
+
+Other systematic literature reviews such as [Murad et al. 2010](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2265.2009.03625.x), [Disord et al. 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6223813/), and [Dhejne et al. 2015](https://www.tandfonline.com/doi/full/10.3109/09540261.2015.1115753) found:
+
+- Transgender people have worse mental health outcomes prior to treatment, though mental health outcomes improve with treatment, and in many cases reaching normative values
+- Transgender people have a lower quality of life, though this raises dramatically with "gender affirming treatment".
+- Of transgender people who have undergone gender affirming treatment:
+     - 80% reported significant improvements to **dysphoria**
+     - 78% reported significant improvements to **psychological symptoms**
+     - 72% reported significant improvements to **sexual function**
+
+**Long term longitudinal studies** also exist, such as [Ruppin and Pfäfflin 2015](https://pubmed.ncbi.nlm.nih.gov/25690443/) which spans **10-24 years** and shows transgender people who undergo medical and/or legal affirmation have improved qualitative and quantitative outcomes in regards to mental health and overall well-being. Another longitudinal study, [Vries et al. 2014](https://publications.aap.org/pediatrics/article-abstract/134/4/696/32932/Young-Adult-Psychological-Outcome-After-Puberty?redirectedFrom=fulltext), spanning 7+ years on the effectiveness of puberty suppression, hormone treatment, and bottom surgery on transgender individuals demonstrated unambiguously positive results. Psychological functioning (gender dysphoria, body image, global functioning, depression, anxiety, & emotional/behavioral conditions) steadily improved with gender-affirming treatment. Overall wellbeing, both objective (social, educationa, & professional functioning) and subjective (quality of life, satisfaction, and happiness) was similar to or better than same-age young adults in the general population.
+
+## Trans Youth
+
+## Detransition and Regret
 
 ## Debate & Rhetoric
 
