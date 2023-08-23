@@ -9,16 +9,22 @@ This document is a collaboration between [@SkyMochi64](https://www.skymochi64.ga
      Go through and make sure to include asterisks!
      - Skye
 -->
-Many studies (even those included), due to age or biases, often times use ablelist and/or transphobic language. Many studies discuss cisgender, neurotypical, and able-bodied individuals as "normal" or "typical" while referring to the contrary as "abnormal", "atypical", "not normal", etc. This can be incredibly dehumanizing and exhausting to read these studies in depth. Please be cautious when doing so, and make sure to keep your mental health as your first priority. Articles that are *especially* aggregious should be labeled with an asterisk. Articles with a bias towards eugenics should be excluded.
+Many studies (even those included), due to age or biases, often times use ableist and/or transphobic language. Many studies discuss cisgender, neurotypical, and able-bodied individuals as "normal" or "typical" while referring to the contrary as "abnormal", "atypical", "not normal", etc. This can be incredibly dehumanizing and exhausting to read these studies in depth. Please be cautious when doing so, and make sure to keep your mental health as your first priority. Articles that are *especially* egregious should be labeled with an asterisk. Articles with a bias towards eugenics should be excluded.
 
 ## Table of Contents
 
 1. [Resources](#resources)
 1. [Definitions](#definitions)
-1. [Acrnoyms](#acronyms)
+1. [Acronyms](#acronyms)
 1. [Biological Sex is Mostly Mutable](#biological-sex-is-mostly-mutable)
+1. ["The Exception That Proves The Rule"](#the-exception-that-proves-the-rule)
 1. [Brain Sex](#brain-sex)
 1. [Modern Eugenics & Conversion Therapy Efforts](#modern-eugenics--conversion-therapy-efforts)
+1. [Sex, Gender, and Religion](#sex-gender-and-religion)
+1. [Gender Transition Helps People](#gender-transition-helps-people)
+1. [Trans Youth](#trans-youth)
+1. [Detransition and Regret](#detransition-and-regret)
+1. [Debate & Rhetoric](#debate--rhetoric)
 
 ## Resources
 
@@ -40,17 +46,17 @@ Many studies (even those included), due to age or biases, often times use ableli
      Continue work on defining terms at some point
 -->
 
-**GAHT** Gender Afirming Hormone Therapy
+**GAHT** Gender Affirming Hormone Therapy
 
 **HRT** Hormone Replacement Therapy
 
-**SRS** (outdated) Sex Reasignment Surgery
+**SRS** (outdated) Sex Re-assignment Surgery
 
 ## Biological Sex is Mostly Mutable
 
-Many aspects of **biological sex can be changed** through medical transition, though it is not a requirnment to transgender identities.
+Many aspects of **biological sex can be changed** through medical transition, though it is not a requirement to transgender identities.
 
-For trans women on hormone replacement therapy (consisting of bioidentical estrogen and progesterone), they obtain a female hormonal profile, altering the sexually dimorphic gene expressions of their cells. Everyone’s cells have the potential to express both male and female traits which are encoded in their DNA, and these traits are turned on and off by your current hormone profile. Feminizing hormone therapy causes their genes to express female traits, causing the development of breasts anatomically identical to cis females. They are also capable of lacting within healthy and normal ranges for nutrient as is the case with examples such as [Nominal.Naomi](https://twitter.com/nominalnaomi/status/1684988539094609931). 
+For trans women on hormone replacement therapy (consisting of bioidentical estrogen and progesterone), they obtain a female hormonal profile, altering the sexually dimorphic gene expressions of their cells. Everyone’s cells have the potential to express both male and female traits which are encoded in their DNA, and these traits are turned on and off by your current hormone profile. Feminizing hormone therapy causes their genes to express female traits, causing the development of breasts anatomically identical to cis females. They are also capable of lactating within healthy and normal ranges for nutrient as is the case with examples such as [Nominal.Naomi](https://twitter.com/nominalnaomi/status/1684988539094609931). 
 
 Further, hormone therapy helps trans women develop female skin texture, female body odor, female body fat distribution, female hair patterns in both body hair and head hair, female muscle mass, female bone density, and even female bone structure if they start early enough.
 
@@ -81,8 +87,8 @@ Hence, trans people can change their hormonal sex, the sex expression of their g
 
 X and Y chromosomal combinations are neither binary, nor a defining characteristic of one’s biological sex characteristics ([Griffiths 2018](https://journals.sagepub.com/doi/full/10.1177/0306312718757081)) as evidenced by many examples:
 
-* XX Males exist - De La Chapelle Syndrome
-* XY Females exist - Swyer Syndrome, Complete Androgen Insensitivity
+* XX Males exist - [De La Chapelle Syndrome](https://en.wikipedia.org/wiki/XX_male_syndrome)
+* XY Females exist - [Swyer Syndrome](https://en.wikipedia.org/wiki/XY_gonadal_dysgenesis), [Complete Androgen Insensitivity](https://rarediseases.info.nih.gov/diseases/10597/complete-androgen-insensitivity-syndrome/)
 * X0, XXX, XXY, XYY, XXYY all exist as well!
 
 <!--
@@ -90,9 +96,31 @@ X and Y chromosomal combinations are neither binary, nor a defining characterist
      I (or preferably someone else?) should look into strenghtening this at a later point!
      - Skye
 -->
-Estimates for the prevelance of non-expected chromosomal combinations range between roughly 0.5% ([Wellesley et al. 2012](https://www.nature.com/articles/ejhg2011246)) ([Lubs et al. 1970](https://pubmed.ncbi.nlm.nih.gov/5424797/)) to upwards of 2% ([Paththinige et al. 2019](https://www.hindawi.com/journals/bmri/2019/9797104/)) depending on time period and location.
+Estimates for the prevalence of non-expected chromosomal combinations range between roughly 0.5% ([Wellesley et al. 2012](https://www.nature.com/articles/ejhg2011246)) ([Lubs et al. 1970](https://pubmed.ncbi.nlm.nih.gov/5424797/)) to upwards of 2% ([Paththinige et al. 2019](https://www.hindawi.com/journals/bmri/2019/9797104/)) depending on time period and location.
 
 0.5% of individuals have abnormal sex chromosomes, which accounts for millions of Americans alone and is about as common as being trans!
+
+### But What About the Gametes?
+
+## "The Exception That Proves The Rule"
+<!--
+
+     Copied from original Naomi masterdoc with some minor edits.
+     - Skye
+
+ -->
+Biological sex is varied. This is a fact. However, many brush off this fact with the following argument:
+
+> “This is just the exception that proves the rule: e.g. we still say that humans have ten fingers even though there are some that don’t.”
+
+#### From a general perspective
+Whenever a generalized rule is constructed, exceptions will always exist; however, general rules are not the same thing a defining characteristic. Humans generally have ten fingers, but someone is still a human even if they have an exceptional number of fingers. Similarly, an intersex female with exceptional XY chromosomes is still female and an infertile female is still female. Because all the other similar characteristics they share with other females, they are female. The same thing applies to trans females, who have hormonal levels, anatomical characteristics, and brain matter distributions in line with other females, not males.
+
+#### From a scientific perspective
+The goal of scientists is to build the most accurate and complete models of understanding. Any model of human biology that fails to account for intersex people, who make up almost 2% of all humans, is an incomplete and inaccurate model. Incomplete and accurate models should be discarded if a better model can be constructed. Simple and incomplete models are good at introducing people, like children, to scientific topics. As cognitively developed adults that care about the truth, we should recognize that the simple model is simply the most intuitive and understandable, not the most complete and accurate. Modern day biologists account for intersex people by recognizing that biological sex exists bimodally distributed along a spectrum. This is just fact.
+
+![The sex spectrum scientific American](https://www.scientificamerican.com/sciam/cache/file/164FE5CE-FBA6-493F-B9EA84B04830354E_source.jpg)
+> **Figure**: An example of a more accurate and complete visualization made by [Amanda Montañez](https://www.scientificamerican.com/author/amanda-montanez/) and [Pitch Interactive](https://www.pitchinteractive.com/) for [Scientific American](https://www.scientificamerican.com/) detailing the bimodal distribution of sex from "typical biological female" to "typical biological male" including chromosomes, genes, hormones, internal/external sex organs, and secondary sex characteristics.
 
 ## Brain Sex
 <!-- 
@@ -105,19 +133,19 @@ The human brain is an incredibly complex organ, with countless different structu
 
 For decades we considered the brain to either be male or female (as strictly sexually dimorphic), however, recent research has revealed different frameworks for interpreting the sex of a brain. This has complex and nuanced implications for transgender individuals.
 
-Daphne Joel and Cordelia Fine, experts on the subjects of neuroscience and philosophy of science respectively, argue that 17th and 18th century European society constructed the notoin that gender (& sex) are "meaningfully carved into two categories or “natural kinds,” that are distinct, timeless, and deeply biologically grounded," a conception that has persisted into recent history. This has also been perpetuated by the ableist research into autism and other neurodivergent conditions describing autism as an "extreme male brain" [(Joel & Cordelia, 2018)](https://www.nytimes.com/2018/12/03/opinion/male-female-brains-mosaic.html)
+Daphne Joel and Cordelia Fine, experts on the subjects of neuroscience and philosophy of science respectively, argue that 17th and 18th century European society constructed the notion that gender (& sex) are "meaningfully carved into two categories or “natural kinds,” that are distinct, timeless, and deeply biologically grounded," a conception that has persisted into recent history. This has also been perpetuated by the ableist research into autism and other neurodivergent conditions describing autism as an "extreme male brain" [(Joel & Cordelia, 2018)](https://www.nytimes.com/2018/12/03/opinion/male-female-brains-mosaic.html)
 
-[2015 research fom Joel et al.](https://www.pnas.org/doi/epdf/10.1073/pnas.1509654112) represents a picture of human brains as a "mosaics" constituting of more commonly male and more commonly female aspects. Brain sex cnannot be binarized, or even visualized as a continum, but as this mosaic. 
+[2015 research from Joel et al.](https://www.pnas.org/doi/epdf/10.1073/pnas.1509654112) represents a picture of human brains as a "mosaics" constituting of more commonly male and more commonly female aspects. Brain sex cannot be binarized, or even visualized as a continuum, but as this mosaic. 
 
 ![ScienceDirect Brain Mosaic](https://ars.els-cdn.com/content/image/1-s2.0-S0149763420306540-ga1.jpg)
  
-> **Figure**: Graphical abstract of the mosaic brain strucutre [by Daphne Joel in Neuroscience & Biobehavioral Reviews](https://www.sciencedirect.com/science/article/pii/S0149763420306540).
+> **Figure**: Graphical abstract of the mosaic brain structure [by Daphne Joel in Neuroscience & Biobehavioral Reviews](https://www.sciencedirect.com/science/article/pii/S0149763420306540).
 
 ### The Transgender Brain
 
 Even with such a small window of sexually dimorphic brain variance, studies indicate that trans people’s brain structures are more in-line with the sex/gender they transition to, *even prior to medical transition*. ([Zubiaurre-Elorza et al. 2013](https://pubmed.ncbi.nlm.nih.gov/22941717/)) ([Luders et al. 2012](https://pubmed.ncbi.nlm.nih.gov/23724358/)) ([Simon et al. 2013](https://pubmed.ncbi.nlm.nih.gov/24391851/)) ([Rametti et al. 2011](https://pubmed.ncbi.nlm.nih.gov/20562024/)) ([Kranz et al. 2014](https://pubmed.ncbi.nlm.nih.gov/25392513/)) ([Hahn et al. 2015](https://pubmed.ncbi.nlm.nih.gov/25217469/)). In tasks where one sex does better on average, transgender people also show to preform closer to their gender identity *even before transition* such as verbal fluency ([Soleman et al. 2013](https://pubmed.ncbi.nlm.nih.gov/23433223/)) ([Cohen-Kettanis et al. 1998](https://pubmed.ncbi.nlm.nih.gov/9802133/))*.
 
-When looking holistically at the research, approximately 25% of research on transgender brains finds no corrolation between trans identities and brain sex, leading to the interpretation that brain sex functions on either a contium or a mosaic rather than a binary. ([Ngyuen et al. 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235900/)) Research accounting for pre-transition brain sex as a continoum has shown MRI scans of transgender individuals align more with their gender identity than birth sex ([Kurth et al. 2022](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8955456/)) ([Manzouri et al. 2017](https://pubmed.ncbi.nlm.nih.gov/26637450/)) ([Moody et al. 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7750413/)), including a study with almost 400 pre-transition transgender participants ([Muller et al. 2021](https://pubmed.ncbi.nlm.nih.gov/34030966/))
+When looking holistically at the research, approximately 25% of research on transgender brains finds no correlation between trans identities and brain sex, leading to the interpretation that brain sex functions on either a continuum or a mosaic rather than a binary. ([Ngyuen et al. 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235900/)) Research accounting for pre-transition brain sex as a continuum has shown MRI scans of transgender individuals align more with their gender identity than birth sex ([Kurth et al. 2022](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8955456/)) ([Manzouri et al. 2017](https://pubmed.ncbi.nlm.nih.gov/26637450/)) ([Moody et al. 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7750413/)), including a study with almost 400 pre-transition transgender participants ([Muller et al. 2021](https://pubmed.ncbi.nlm.nih.gov/34030966/))
 
 This research better helps us understand the neurological aspects of trans identities, and can help us better understand how to care for transgender individuals. Research based on our updated understanding of brain sex has helped us understand the unique and fascinating ways in which transgender people develop. ([Wang et al. 2021](https://pubmed.ncbi.nlm.nih.gov/34030966/))
 
@@ -157,8 +185,8 @@ Needs work, feel sick while writing this
 - Skye
 
  -->
-Currently the largest and most well known and funded institution focusing on autistic individuals is autism speaks, an organization mired with countless controversies. Autism speaks abides by the medical model of autism, viewing autism as a medical issue, and seeking to "treat" and eventually "cure" autism. In 2016, Autism Speaks removed the overtly eugenicist language from its website, however, some argue its intense focus on the "solution" to autism being an extreme emphasis on biomedical research, rather than systematic social change, still displays a bent towards eugenics ([Jones 2016](https://unstrangemind.com/autism-speaks-hasnt-really-changed-anything/)). Autism Speaks, further, [supports](https://www.autismspeaks.org/applied-behavior-analysis) the use of [conversion therapies](#aba-conversion-therapy-torutre--trauma) for autistic children. Autism Speaks does not acknowledge its past, learn from it, and then seek to better itself - leading to a deepened distrust ([Rosenblatt 2021](https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/25722/dsq-sds.org-Autism%20Advocacy%20Organizations%20and%20Past%20Injustice.pdf)) of the the largest orgnization purporting to fight for autistic people's rights.
-#### ABA: Conversion Therapy, Torutre, & Trauma
+Currently the largest and most well known and funded institution focusing on autistic individuals is autism speaks, an organization mired with countless controversies. Autism speaks abides by the medical model of autism, viewing autism as a medical issue, and seeking to "treat" and eventually "cure" autism. In 2016, Autism Speaks removed the overtly eugenicist language from its website, however, some argue its intense focus on the "solution" to autism being an extreme emphasis on biomedical research, rather than systematic social change, still displays a bent towards eugenics ([Jones 2016](https://unstrangemind.com/autism-speaks-hasnt-really-changed-anything/)). Autism Speaks, further, [supports](https://www.autismspeaks.org/applied-behavior-analysis) the use of [conversion therapies](#aba-conversion-therapy-torutre--trauma) for autistic children. Autism Speaks does not acknowledge its past, learn from it, and then seek to better itself - leading to a deepened distrust ([Rosenblatt 2021](https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/25722/dsq-sds.org-Autism%20Advocacy%20Organizations%20and%20Past%20Injustice.pdf)) of the the largest organization purporting to fight for autistic people's rights.
+#### ABA: Conversion Therapy, Torture, & Trauma
 <!-- 
 
 Needs work. Feel INCREDIBLY sick while writing this.
@@ -173,26 +201,60 @@ Look through citations for, look deeper into connections between trans people & 
 - Skye
 
 -->
-ABA (Autism Behavior Analysis) is a widely adopted and endorsed form of conversion therapy for autistic children ([Wilkenfeld et al. 2020](doi.org/10.1353/ken.2020.0000)) ([Pyne 2020](https://www.cambridge.org/core/journals/canadian-journal-of-law-and-society-la-revue-canadienne-droit-et-societe/article/building-a-person-legal-and-clinical-personhood-for-autistic-and-trans-children-in-ontario/2041374EDCDAD44AE2DE1EB9D2C16361)), supported by many instiutions such as the [CDC](https://www.cdc.gov/ncbddd/autism/treatment.html) and [National Institutes of Health](https://www.nichd.nih.gov/health/topics/autism/conditioninfo/treatments/behavioral-management) and [APA](https://www.apa.org/about/policy/applied-behavior-analysis). Studies show recipents of ABA are 86% more likely to meet the criteria for PTSD, with estimates showing 46% of ABA survivors meet the diagnostic criteria for PTSD ([Kupferstein 2018](https://doi.org/10.1108/AIA-08-2017-0016)). Further, a handful of states (including blue states such as CA, PA, ME, CO) have [no lisence requirnments](https://www.bacb.com/u-s-licensure-of-behavior-analysts/) for ABA. ABA is primarily comprised of RBTs (technicans), a role which [requires only 40 hours of training] (https://www.bacb.com/rbt/). Clinics such as AutismTherapies are [88% comprised of RBTs](https://autismtherapies.com/careers). 
+ABA (Autism Behavior Analysis) is a widely adopted and endorsed form of conversion therapy for autistic children ([Wilkenfeld et al. 2020](doi.org/10.1353/ken.2020.0000)) ([Pyne 2020](https://www.cambridge.org/core/journals/canadian-journal-of-law-and-society-la-revue-canadienne-droit-et-societe/article/building-a-person-legal-and-clinical-personhood-for-autistic-and-trans-children-in-ontario/2041374EDCDAD44AE2DE1EB9D2C16361)), supported by many institutions such as the [CDC](https://www.cdc.gov/ncbddd/autism/treatment.html) and [National Institutes of Health](https://www.nichd.nih.gov/health/topics/autism/conditioninfo/treatments/behavioral-management) and [APA](https://www.apa.org/about/policy/applied-behavior-analysis). Studies show recipients of ABA are 86% more likely to meet the criteria for PTSD, with estimates showing 46% of ABA survivors meet the diagnostic criteria for PTSD ([Kupferstein 2018](https://doi.org/10.1108/AIA-08-2017-0016)). Further, a handful of states (including blue states such as CA, PA, ME, CO) have [no license requirnments](https://www.bacb.com/u-s-licensure-of-behavior-analysts/) for ABA. ABA is primarily comprised of RBTs (technicians), a role which [requires only 40 hours of training](https://www.bacb.com/rbt/). Clinics such as AutismTherapies are [88% comprised of RBTs](https://autismtherapies.com/careers). 
 
 <!-- 
 
-Read Loovas' work more in depth later. Makes me too sick. Also see if you can find more Loovas articles.
+Read Lovaas' work more in depth later. Makes me too sick. Also see if you can find more Loovas articles.
 Read further into the exact details of Bottema-Beutel Crowley 2021
 - Skye
 
 -->
-ABA has its roots in the 60's, with the research of [Ivar Loovas](https://en.wikipedia.org/wiki/Ole_Ivar_Lovaas). Loovas' main accomplishments were the creation of ABA, though he did also expriment with conversion therapy on trans and gender-diverse children ([Rekers, Lovaas 1974](https://link.springer.com/article/10.1007/BF00919093))*. In 2020, the journal in which Loovas published [issued an "expression of concern"](https://onlinelibrary.wiley.com/doi/10.1002/jaba.781) on Loovas' work in conversion therapy for gender nonconforming children, however, did no such thing for ABA studies. Further, recent research has demonstrated a pervasive issue of not disclosing conflicts of interests within ABA research, primarily not disclosing that pro-ABA research is primarily conducted by ABA practitioners ([Bottema-Beutel, Crowley 2021](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.676303/full)).
+ABA has its roots in the 60's, with the research of [Ivar Lovaas](https://en.wikipedia.org/wiki/Ole_Ivar_Lovaas). Lovaas' main accomplishments were the creation of ABA, though he did also expriment with conversion therapy on trans and gender-diverse children ([Rekers, Lovaas 1974](https://link.springer.com/article/10.1007/BF00919093))*. In 2020, the journal in which Lovaas published [issued an "expression of concern"](https://onlinelibrary.wiley.com/doi/10.1002/jaba.781) on Lovaas' work in conversion therapy for gender nonconforming children, however, did no such thing for ABA studies. Further, recent research has demonstrated a pervasive issue of not disclosing conflicts of interests within ABA research, primarily not disclosing that pro-ABA research is primarily conducted by ABA practitioners ([Bottema-Beutel, Crowley 2021](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.676303/full)).
 
-ABA was built around using [opperant conditoning](https://en.wikipedia.org/wiki/Operant_conditioning), later by Lovaas described as [discrete trial training](https://en.wikipedia.org/wiki/Discrete_trial_training), which involved autistic children being commanded to do things they are typically uncomfortable with. During this time, physical punishments were used to reduce self-harm in autistic children, such as isolation, electric shocks, or slapping ([Loovas 1973](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1310815/pdf/jaba00063-0133.pdf))*. ABA was described by Loovas as:
+ABA was built around using [operant conditioning](https://en.wikipedia.org/wiki/Operant_conditioning), later by Lovaas described as [discrete trial training](https://en.wikipedia.org/wiki/Discrete_trial_training), which involved autistic children being commanded to do things they are typically uncomfortable with. During this time, physical punishments were used to reduce self-harm in autistic children, such as isolation, electric shocks, or slapping ([Lovaas 1973](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1310815/pdf/jaba00063-0133.pdf))*. ABA was described by Lovaas as:
 
-> "Throughout, there was an emphasis on making the child look as normal as possible, reward-ing him for normal behavior and punishing his psychotic behavior, teaching him to please his parents and us, to be grateful for what we would do for him, to be afraid of us when we were angry, and pleased when we were happy. Adults were in control." ([Loovas 1973](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1310815/pdf/jaba00063-0133.pdf))*.
+> "Throughout, there was an emphasis on making the child look as normal as possible, reward-ing him for normal behavior and punishing his psychotic behavior, teaching him to please his parents and us, to be grateful for what we would do for him, to be afraid of us when we were angry, and pleased when we were happy. Adults were in control." ([Lovaas 1973](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1310815/pdf/jaba00063-0133.pdf))*.
 
 ABA *currently* can consist of ([McGill et al. 2020](https://doi.org/10.1108/AIA-04-2020-0025)):
 
 1. **Training** children through the use of physical interventions such as physical restraints, force-feeding, or restricting bathroom usage; dehumanization and animalistic treatment; and accusations of lying or laziness in response to autistic behaviors. 
 2. **Eroding the self** by changing the way survivors interact with the world, forcing them to mask, inflicting significant trauma, and learning self-hatred.
 3. **Restricting agency** through controlling behaviors, focusing on teaching compliance to the point of making children more vulnerable to future abuse, and forced masking of survivors' identities.
+
+## Sex, Gender, and Religion
+
+## Gender Transition Helps People
+<!-- 
+
+     Read turban et al. 2022 more in depth later
+
+ -->
+Gender transition is not exclusive to hormones or surgeries, but can include legal name changes or social transition. However, this will mostly focus on medical transition. A study of over 27,000 transgender participants demonstrated that for those who *want* gender affirming hormone treatment and receive treatment demonstrate a 153% decrease in severe psychological distress and a 62% decrease in past-year suicide ideation compared to those who *want* gender affirming hormones but cannot receive treatment [Turban et al. 2022](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8754307/). This section primarily focuses on dispelling miss-information those who *want* gender affirming hormones, but cannot access treatment.
+
+An enormous [systematic literature review out of Cornell](https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/) demonstrated transgender people significantly benefit from gender transition. The breakdown of studies investigated showed the following:
+- 51 studies indicated gender transition had **positive** effects on mental health.
+- 4 studies indicated gender transition had **mixed or no** results.
+- 0 studies indicated gender transition had **negative** results.
+
+Other systematic literature reviews such as [Murad et al. 2010](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2265.2009.03625.x), [Nobili et al. 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6223813/), and [Dhejne et al. 2015](https://www.tandfonline.com/doi/full/10.3109/09540261.2015.1115753) found:
+
+- Transgender people have worse mental health outcomes prior to treatment, though mental health outcomes improve with treatment, and in many cases reaching normative values
+- Transgender people have a lower quality of life, though this raises dramatically with "gender affirming treatment".
+- Of transgender people who have undergone gender affirming treatment:
+     - 80% reported significant improvements to **dysphoria**
+     - 78% reported significant improvements to **psychological symptoms**
+     - 72% reported significant improvements to **sexual function**
+
+**Long term longitudinal studies** also exist, such as [Ruppin and Pfäfflin 2015](https://pubmed.ncbi.nlm.nih.gov/25690443/) which spans **10-24 years** and shows transgender people who undergo medical and/or legal affirmation have improved qualitative and quantitative outcomes in regards to mental health and overall well-being. 
+
+Another longitudinal study, [Vries et al. 2014](https://publications.aap.org/pediatrics/article-abstract/134/4/696/32932/Young-Adult-Psychological-Outcome-After-Puberty?redirectedFrom=fulltext), spanning **7+ years** on the effectiveness of puberty suppression, hormone treatment, and bottom surgery on transgender individuals demonstrated unambiguously positive results. Psychological functioning (gender dysphoria, body image, global functioning, depression, anxiety, & emotional/behavioral conditions) steadily improved with gender-affirming treatment. Overall wellbeing, both objective (social, educationa, & professional functioning) and subjective (quality of life, satisfaction, and happiness) was **similar to or better than same-age young adults in the general population.**
+
+## Trans Youth
+
+## Detransition and Regret
+
+## Debate & Rhetoric
 
 ## Contributing
 ![Contribution Workflow](https://raw.githubusercontent.com/Blahaj-Research-Institute/ResearchMasterdoc/main/assets/images/Contribution_Workflow_V3.png)
@@ -207,8 +269,8 @@ Steps to contribute to this project:
      2. Option 2: DM @skymochi64 on Discord to be added.
 3. Wait to be sent questions or an invite to the project, then join!
 4. Create a [new branch](https://github.com/Blahaj-Research-Institute/ResearchMasterdoc/branches) and title it `dev/example-research` with example-research being the addition you'd like to make.
-5. Switch to your newley created branch.
-6. Edit the README.md file to include your research, explination, summarization, etc.
+5. Switch to your newly created branch.
+6. Edit the README.md file to include your research, explanation, summarization, etc.
 7. Once done with your segment, where prompted to, open/create a new pull request.
 8. This will either be approved, or you will be asked to edit a few things.
 
@@ -218,6 +280,6 @@ Steps to contribute to this project:
 * [SkyMochi64](https://skymochi64.gay)
 * [Abby Richards](https://github.com/amrichards)
 
-## Liscence
+## License
 
 TBD. Currently you should use the original masterdoc. Once more complete, we will likely use CC-BY-4.0.
