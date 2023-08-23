@@ -17,8 +17,11 @@ Many studies (even those included), due to age or biases, often times use ableis
 1. [Definitions](#definitions)
 1. [Acronyms](#acronyms)
 1. [Biological Sex is Mostly Mutable](#biological-sex-is-mostly-mutable)
+1. ["The Exception That Proves The Rule"](#the-exception-that-proves-the-rule)
 1. [Brain Sex](#brain-sex)
 1. [Modern Eugenics & Conversion Therapy Efforts](#modern-eugenics--conversion-therapy-efforts)
+1. [Sex, Gender, and Religion](#sex-gender-and-religion)
+1. [Debate & Rhetoric](#debate--rhetoric)
 
 ## Resources
 
@@ -93,6 +96,25 @@ X and Y chromosomal combinations are neither binary, nor a defining characterist
 Estimates for the prevalence of non-expected chromosomal combinations range between roughly 0.5% ([Wellesley et al. 2012](https://www.nature.com/articles/ejhg2011246)) ([Lubs et al. 1970](https://pubmed.ncbi.nlm.nih.gov/5424797/)) to upwards of 2% ([Paththinige et al. 2019](https://www.hindawi.com/journals/bmri/2019/9797104/)) depending on time period and location.
 
 0.5% of individuals have abnormal sex chromosomes, which accounts for millions of Americans alone and is about as common as being trans!
+
+### But What About the Gametes?
+
+## "The Exception That Proves The Rule"
+<!--
+
+     Copied from original Naomi masterdoc with some minor edits.
+     - Skye
+
+ -->
+Biological sex is varied. This is a fact. However, many brush off this fact with the following argument:
+
+> “This is just the exception that proves the rule: e.g. we still say that humans have ten fingers even though there are some that don’t.”
+
+#### From a general perspective
+Whenever a generalized rule is constructed, exceptions will always exist; however, general rules are not the same thing a defining characteristic. Humans generally have ten fingers, but someone is still a human even if they have an exceptional number of fingers. Similarly, an intersex female with exceptional XY chromosomes is still female and an infertile female is still female. Because all the other similar characteristics they share with other females, they are female. The same thing applies to trans females, who have hormonal levels, anatomical characteristics, and brain matter distributions in line with other females, not males.
+
+#### From a scientific perspective
+The goal of scientists is to build the most accurate and complete models of understanding. Any model of human biology that fails to account for intersex people, who make up almost 2% of all humans, is an incomplete and inaccurate model. Incomplete and accurate models should be discarded if a better model can be constructed. Simple and incomplete models are good at introducing people, like children, to scientific topics. As cognitively developed adults that care about the truth, we should recognize that the simple model is simply the most intuitive and understandable, not the most complete and accurate. Modern day biologists account for intersex people by recognizing that biological sex exists bimodally distributed along a spectrum. This is just fact.
 
 ## Brain Sex
 <!-- 
@@ -193,6 +215,10 @@ ABA *currently* can consist of ([McGill et al. 2020](https://doi.org/10.1108/AIA
 1. **Training** children through the use of physical interventions such as physical restraints, force-feeding, or restricting bathroom usage; dehumanization and animalistic treatment; and accusations of lying or laziness in response to autistic behaviors. 
 2. **Eroding the self** by changing the way survivors interact with the world, forcing them to mask, inflicting significant trauma, and learning self-hatred.
 3. **Restricting agency** through controlling behaviors, focusing on teaching compliance to the point of making children more vulnerable to future abuse, and forced masking of survivors' identities.
+
+## Sex, Gender, and Religion
+
+## Debate & Rhetoric
 
 ## Contributing
 ![Contribution Workflow](https://raw.githubusercontent.com/Blahaj-Research-Institute/ResearchMasterdoc/main/assets/images/Contribution_Workflow_V3.png)
