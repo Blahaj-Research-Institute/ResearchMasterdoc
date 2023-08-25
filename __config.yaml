@@ -1,7 +1,14 @@
-title                : "Blahaj Institute's Trans Research Masterdoc"
-description          : "Based on the Nominal.Naomi research masterdoc, this is an open source master document for research on transgender individuals." 
+title                : "Blahaj Institute Trans Research Masterdoc"
+tagline              : "An Open Source Research Master Document on Transgender and Neurodiverse issues."
+description          : "The Blahaj Research Institute Trans Research Master Document is an open source master document created by SkyMochi64 for research on transgender and neurodivergent individuals based on the original Nominal.Naomi Research Masterdoc." 
 locale               : "en_US"
-image                : "https://www.masterdoc.info/assets/images/PFP_V1.png"
+
+url                  : https://www.masterdoc.info/
+repository           : https://github.com/Blahaj-Research-Institute/ResearchMasterdoc
+
+logo                 : https://www.masterdoc.info/assets/images/PFP_V1.png
+image                : https://www.masterdoc.info/assets/images/PFP_V1.png
+
 
 keywords:
   - Trans
@@ -18,3 +25,6 @@ encoding             : "utf-8"
 author:
   name               : "Blahaj Research Institute"
   avatar             : "https://www.masterdoc.info/assets/images/PFP_V1.png"
+
+plugins:
+  - jekyll-seo-tag
