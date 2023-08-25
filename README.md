@@ -224,6 +224,31 @@ ABA *currently* can consist of ([McGill et al. 2020](https://doi.org/10.1108/AIA
 
 ## Sex, Gender, and Religion
 
+<!-- 
+
+I AM NOT A RELIGIOUS SCHOLAR. I tried wording things in a way that would be the least contensious possible until someone can verify correct terminology, etc.
+Ask someone to fact check.
+- Skye
+
+ -->
+
+### The Talmud
+The [Talmud](https://www.chabad.org/library/article_cdo/aid/3347866/jewish/What-Is-the-Talmud-Definition-and-Comprehensive-Guide.htm), detailing Jewish law and traditions, recognized [six sexes](https://www.sefaria.org/sheets/196414.2).
+
+### Genesis 1:27
+> "And God created humankind in the divine image,
+
+> creating it in the image of God—
+
+> creating them male and female." ([The Contemporary Torah](https://www.sefaria.org/Genesis.1.27?lang=en))
+
+Some interpretations of Genesis center an androgynous in the creation of humanity ([Imhoff 2023](https://theconversation.com/nonbinary-genders-beyond-male-and-female-would-have-been-no-surprise-to-ancient-rabbis-who-acknowledged-tumtums-androgynos-and-aylonot-206827)). Other interpreations of Genesis conclude that the context surrounding the creation of man and woman implies man and woman is a spectrum, rather than a binary ([Hartke 2018](https://www.christiancentury.org/article/critical-essay/nonbinary-gender-and-diverse-beauty-creation)). 
+
+### Matthew 19:12
+> "For there are eunuchs who were born that way from their mother’s womb, and there are eunuchs who were made eunuchs by men; and there are eunuchs who made themselves eunuchs for the Kingdom of Heaven’s sake. He who is able to receive it, let him receive it." ([World English Bible](https://ebible.org/web/MAT19.htm))
+
+In traditional Jewish societies, eunuchs were a gender designated to castrated individuals, be they born that way, castrated by others, or castrated by themselves. Socially, they were not seen as men or women, and they were assigned gender roles and expectations distinct from men and women. In this verse, Jesus literally says that people can choose to alter their biological sex characteristics and go on to live as another gender–and that you should accept it.
+
 ## Gender Transition Helps People
 <!-- 
 
